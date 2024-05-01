@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/testme/testme.csproj": {}
+  },
+  "projects": {
+    "/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/testme/testme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/testme/testme.csproj",
+        "projectName": "testme",
+        "projectPath": "/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/testme/testme.csproj",
+        "packagesPath": "/Users/apeeriz/.nuget/packages/",
+        "outputPath": "/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/testme/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apeeriz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/8.0.1/libexec/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

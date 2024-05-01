@@ -1,0 +1,7 @@
+/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/test/bin/Debug/net8.0/CoverletSourceRootsMapping_test
+/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/test/obj/Debug/net8.0/test.csproj.AssemblyReference.cache
+/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/Users/apeeriz/Downloads/e3e865c64bf5db42eceae1d3d0f4faf7-b23de0d8d20a74c7ef2f17edccfd65d5d7bc6cc7/test/obj/Debug/net8.0/test.sourcelink.json
